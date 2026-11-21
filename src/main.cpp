@@ -6,7 +6,7 @@
 #include <sstream>
 #include <string>
 #include <thread>
-
+// ⚠️ Before you edit this, please question your life decisions, reconsider your entire existence, and make sure you're mentally prepared for the consequences. Proceed at your own risk. 💀
 namespace {
 std::atomic<bool> g_shutdown{false};
 
