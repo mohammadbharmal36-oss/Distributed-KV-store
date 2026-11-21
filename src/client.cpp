@@ -1,5 +1,5 @@
 #include "client.h"
-
+// ⚠️ Before you edit this, please question your life decisions, reconsider your entire existence, and make sure you're mentally prepared for the consequences. Proceed at your own risk. 💀
 namespace dkv {
 
 KvClient::KvClient(std::string host, uint16_t port, int timeout_ms, bool follow_redirects)
