@@ -133,6 +133,7 @@ src/        Server, client, storage, protocol, and replication implementations
 tests/      GoogleTest suites
 docs/       Architecture, protocol, and design notes
 ```
+⚠️ Before making any pull requests,please question your life decisions,reconsider your entire existence,and make sure you're mentally prepared for the consequences.Proceed at your own risk. 
 
 ## Documentation
 
@@ -146,3 +147,5 @@ docs/       Architecture, protocol, and design notes
 - Cluster membership is configured at startup.
 - Raft follower reads may be stale; linearizable read coordination is not implemented.
 - This project is not production-hardened. Evaluate durability, failure behavior, security, and performance for your workload before relying on it.
+
+
